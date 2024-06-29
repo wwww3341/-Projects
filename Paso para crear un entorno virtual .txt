@@ -1,0 +1,8 @@
+Paso para crear un entorno virtual en visual:
+
+abrir nueva terminal >> 
+escribir virtualenv -p python3 env para crear el entorno(env es el nombre de nuestro entorno) >> 
+luego tenemos que activar nuestro entorno con el siguiente comando
+ .\env\Scripts\activate >> luego pegas esto: python .\Telegram_bot.py y ya podras 
+ ejecutar ese archivo Python >> 
+ para desactivar solo pon deactivate
